@@ -1,0 +1,29 @@
+#maintop{
+border:2px solid red;
+background:green;
+
+}
+
+.navbar{
+background:green;
+  height:100px;
+
+
+}
+
+
+.navbar-header{
+  margin-top:20px;
+
+}
+
+.navbar-collapse{
+margin-top:40px;
+}
+
+#strip{
+height:20px;
+width:100%;
+background:red;
+
+}
